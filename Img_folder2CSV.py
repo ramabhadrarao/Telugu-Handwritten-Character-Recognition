@@ -2,7 +2,7 @@ import pandas as pd
 import time
 from PIL import Image
 import os,array
-
+# change the path here
 os.chdir("E://Telugu Character Recogniton//Resized_Vowel_Dataset")
 
 columnNames = list()
